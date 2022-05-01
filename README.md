@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Github 
+ ![Top Langs](https://github-readme-stats.vercel.app/api?username=deepakkewalramani&show_icons=true&theme=dracula)
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkewalramani&layout=compact)
+

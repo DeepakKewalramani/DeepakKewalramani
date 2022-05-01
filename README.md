@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkewalramani&theme=tokyonight" alt="mystreak"/>
-
 #### Github 
- ![Top Langs](https://github-readme-stats.vercel.app/api?username=deepakkewalramani&show_icons=true&theme=dracula)
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkewalramani&show_icons=true&theme=dracula" alt="github"/>
+ 
+###
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkewalramani&theme=dracula" alt="mystreak"/>
+
 ### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkewalramani&layout=compact)
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkewalramani&layout=compact&show_icons=true&locale=en&layout=compact&theme=dracula" alt="toplanguage"/>
 

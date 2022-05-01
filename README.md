@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkewalramani&theme=tokyonight" alt="mystreak"/>
+
 #### Github 
  ![Top Langs](https://github-readme-stats.vercel.app/api?username=deepakkewalramani&show_icons=true&theme=dracula)
 ### Top Languages

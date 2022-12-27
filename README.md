@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 ### Top Languages
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakkewalramani&layout=compact&show_icons=true&locale=en&layout=compact&hide=html&card_width=500&theme=dracula" alt="toplanguage"/>
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DeepakKewalramani)
